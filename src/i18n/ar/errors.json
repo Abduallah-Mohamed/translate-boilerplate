@@ -1,0 +1,7 @@
+{
+    "UPROCESSAPLE_ENTITY": "حدث خطأ أثناء معالجة الطلب",
+    "NOT_FOUND": "العنصر غير موجود",
+    "DATA_TOO_LONG": "البيانات طويلة جدا",
+    "INTERNAL_SERVER_ERROR": "حدث خطأ ما أثناء معالجة الطلب",
+    "DUPLICATE_ENTRY": "العنصر موجود مسبقا"
+}

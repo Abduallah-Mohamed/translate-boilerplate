@@ -1,0 +1,7 @@
+{
+    "UPROCESSAPLE_ENTITY": "There is an error while processing the request",
+    "NOT_FOUND": "Item Not found",
+    "DATA_TOO_LONG": "The Entered Data is too long",
+    "INTERNAL_SERVER_ERROR": "There is an error while processing the request",
+    "DUPLICATE_ENTRY": "The Entered Data is already exist"
+}
